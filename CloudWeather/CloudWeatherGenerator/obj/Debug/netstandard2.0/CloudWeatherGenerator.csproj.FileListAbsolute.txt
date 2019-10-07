@@ -1,0 +1,5 @@
+C:\Users\Silindokuhle.Sizani\Documents\CloudWeather\CloudWeatherGenerator\bin\Debug\netstandard2.0\CloudWeatherGenerator.deps.json
+C:\Users\Silindokuhle.Sizani\Documents\CloudWeather\CloudWeatherGenerator\bin\Debug\netstandard2.0\CloudWeatherGenerator.dll
+C:\Users\Silindokuhle.Sizani\Documents\CloudWeather\CloudWeatherGenerator\obj\Debug\netstandard2.0\CloudWeatherGenerator.csprojAssemblyReference.cache
+C:\Users\Silindokuhle.Sizani\Documents\CloudWeather\CloudWeatherGenerator\obj\Debug\netstandard2.0\CloudWeatherGenerator.AssemblyInfoInputs.cache
+C:\Users\Silindokuhle.Sizani\Documents\CloudWeather\CloudWeatherGenerator\obj\Debug\netstandard2.0\CloudWeatherGenerator.AssemblyInfo.cs
